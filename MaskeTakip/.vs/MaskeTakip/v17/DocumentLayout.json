@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|solutionrelative:business\\concrete\\personmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|solutionrelative:business\\concrete\\foreignermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|solutionrelative:business\\abstract\\iapplicantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|solutionrelative:business\\abstract\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F50840-1015-452C-A333-0BC57161CD81}|Workaround\\Workaround.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F50840-1015-452C-A333-0BC57161CD81}|Workaround\\Workaround.csproj|solutionrelative:workaround\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|c:\\users\\zehra\\source\\repos\\masketakip\\business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACDEFA1-146F-43FC-99F7-19D045B30059}|Business\\Business.csproj|solutionrelative:business\\concrete\\pttmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonManager.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PersonManager.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\PersonManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PersonManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T13:20:12.573Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PttManager.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\PttManager.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\PttManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\PttManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T10:16:57.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeDocumentMoniker": "Workaround\\Program.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Workaround\\Program.cs",
+              "RelativeToolTip": "Workaround\\Program.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAuwIUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-10T13:02:21.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Abstract\\ISupplierService.cs",
+              "RelativeToolTip": "Business\\Abstract\\ISupplierService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T15:50:32.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IApplicantService.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IApplicantService.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Abstract\\IApplicantService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IApplicantService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T13:08:20.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ForeignerManager.cs",
+              "DocumentMoniker": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ForeignerManager.cs",
+              "ToolTip": "C:\\Users\\ZEHRA\\source\\repos\\MaskeTakip\\Business\\Concrete\\ForeignerManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ForeignerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-11T13:35:12.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
